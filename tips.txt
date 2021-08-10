@@ -1,0 +1,9 @@
+commands...
+sudo npm install express-generator@4.16.0 -g
+express conFusionServer
+npm install
+npm start
+
+
+
+npm install mongoose mongoose-currency --save
